@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa" width="100%" />
+<img src="E:\Downloads\Notion Cover Dark.jpg" width="100%" />
 
 # Sushanth Rao
 
