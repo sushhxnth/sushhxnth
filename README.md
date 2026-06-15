@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Boda%20Sushanth%20Rao&fontSize=45&fontColor=ffffff&color=0:4F46E5,50:7C3AED,100:9333EA&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Software+Engineer;Machine+Learning+%26+LLM+Systems;Building+Production-Grade+AI+Applications;Space-Tech+%7C+RAG+%7C+Multimodal+AI;Open+Source+Builder+and+Research+Enthusiast" />
 
 <br/>
 
