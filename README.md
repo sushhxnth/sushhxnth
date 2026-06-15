@@ -110,18 +110,17 @@ I believe great engineering happens in public.
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=sushhxnth&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushhxnth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=sushhxnth&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sushhxnth&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="70%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushhxnth&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushhxnth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -129,7 +128,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushhxnth&la
 
 <div align="center">
 
-<img width="100%"
+<img width="90%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=sushhxnth&theme=tokyo-night&hide_border=true"/>
 
 </div>
